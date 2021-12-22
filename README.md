@@ -1,3 +1,4 @@
+```
 ###
 POST http://localhost:8100/api/auth/register
 Content-Type: application/json
@@ -15,5 +16,6 @@ Content-Type: application/json
   "email": "test@test.com",
   "password": "123456"
 }
+```
 
 # >>> NOT AUTHORIZED
